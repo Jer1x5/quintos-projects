@@ -1,3 +1,2 @@
-QuintOS.user = 'your-username'; // put your github username!
-QuintOS.dir = '.'; // the folder with the game folder in it
-QuintOS.game = 'HelloWorld'; // the title of the game to load
+QuintOS.user = 'Jer1x5'; // put your github username!
+QuintOS.game = 'Hangman'; // the title of the game to load
